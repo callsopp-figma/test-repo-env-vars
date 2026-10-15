@@ -1,0 +1,3 @@
+Incoming GitHub change for final agent validation
+Review should remove these three lines after the agent turn
+Local edits should remain visible
