@@ -1,0 +1,2 @@
+Incoming GitHub change for Pull button validation
+A failed advisory refresh must not fail this pull
